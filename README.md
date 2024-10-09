@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Welcome to My GitHub Profile!
 
 ## About Me
@@ -27,7 +25,7 @@ Exploration of AI concepts through various projects and applications.
 A tool to keep your directories clean and manage files efficiently.
 
 ## How to Reach Me
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/chitwan-gujrani-673181255)) or email me at [6804chitwan.gujrani@gmail.com](mailto:6804chitwan.gujrani@gmail.com).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/chitwan-gujrani-673181255) or email me at [6804chitwan.gujrani@gmail.com](mailto:6804chitwan.gujrani@gmail.com).
 
 ## Let's Collaborate!
 I’m always open to collaborating on interesting projects. If you have an idea or want to work together, don’t hesitate to reach out!
