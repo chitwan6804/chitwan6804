@@ -27,7 +27,7 @@ Exploration of AI concepts through various projects and applications.
 A tool to keep your directories clean and manage files efficiently.
 
 ## How to Reach Me
-Feel free to connect with me on [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/chitwan-gujrani-673181255?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ) or email me at [6804chitwan.gujrani@gmail.com](mailto:6804chitwan.gujrani@gmail.com).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/chitwan-gujrani-673181255)) or email me at [6804chitwan.gujrani@gmail.com](mailto:6804chitwan.gujrani@gmail.com).
 
 ## Let's Collaborate!
 I’m always open to collaborating on interesting projects. If you have an idea or want to work together, don’t hesitate to reach out!
