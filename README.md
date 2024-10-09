@@ -1,9 +1,8 @@
-# Welcome to My GitHub Profile!
+<!--# Welcome to My GitHub Profile!
 
 ## About Me
 Hello! I’m Chitwan, a passionate learner and developer specializing in machine learning, artificial intelligence, and web development. I love exploring new technologies and working on innovative projects that solve real-world problems.
 
-## Skills
 ## Skills
 - **Programming Languages:** 
   - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -75,4 +74,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
 -->
